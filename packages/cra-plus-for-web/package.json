@@ -1,15 +1,15 @@
 {
-  "name": "cra-template",
-  "version": "1.1.2",
+  "name": "cra-plus-for-web",
+  "version": "0.0.1",
   "keywords": [
-    "react",
+    "react-template",
     "create-react-app",
-    "template"
+    "react-boilerplate"
   ],
-  "description": "The base template for Create React App.",
+  "description": "The out-of-box CRA template for web dev, with Router & Redux well configured",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/cnscorpions/cra-plus.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",

@@ -17,6 +17,8 @@
     "alex": "alex .",
     "test": "cd packages/react-scripts && node bin/react-scripts.js test",
     "format": "prettier --write 'packages/*/*.js' 'packages/*/!(node_modules)/**/*.js'",
+    "git": "git add . && git commit -m",
+    "postgit": "git push && git pull && git status",
     "compile:lockfile": "node tasks/compile-lockfile.js"
   },
   "devDependencies": {
